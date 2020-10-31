@@ -7,5 +7,5 @@ chrome福利向插件，用于抓取页面中原始吐露的磁力链接部分
 ### 使用方式
 
 * 打开chrome://extensions, 开启开发者模式
-* 将zip文件拖入其中, 关闭开发者模式
+* 将[bt_spy.zip文件](https://github.com/xiongxiong109/chrome_bt_spy/releases)拖入其中, 关闭开发者模式
 * 访问有磁力链接页面时, 打开插件即可。
